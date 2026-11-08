@@ -1,0 +1,3 @@
+company,trips,null_on_scene_pct,negative_eta_pct,eta_above_cutoff_pct,usable_eta_pct,negative_margin_pct
+Uber,14432755,0.0,0.89,0.01,99.09,10.37
+Lyft,5231175,99.76,0.12,0.0,0.12,6.39

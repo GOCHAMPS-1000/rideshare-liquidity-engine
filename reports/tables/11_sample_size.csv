@@ -1,0 +1,4 @@
+relative_reduction,baseline_long_wait,target,n_per_arm_trips
+10%,0.0453,0.0408,31511
+15%,0.0453,0.0385,13650
+20%,0.0453,0.0362,7478

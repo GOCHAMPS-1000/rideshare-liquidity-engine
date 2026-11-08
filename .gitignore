@@ -1,0 +1,17 @@
+# Big raw data: never commit (GitHub rejects files > 100 MB)
+data/raw/*.parquet
+data/raw/*.csv
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# macOS / editor
+.DS_Store
+.vscode/settings.json
+
+# Demo output is synthetic and must never be mistaken for results
+reports/demo/
